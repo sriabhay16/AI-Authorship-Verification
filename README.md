@@ -3,7 +3,7 @@
 ## Dataset
 The experiments are conducted on the PAN25 Generative AI Detection: Voight-Kampff AI Detection Sensitivity shared task dataset which contains:
 Human-written text, AI-generated text and Multiple genres and LLM sources
-- Shared Task: https://pan.webis.de/clef25/pan25-web/generated-content-analysis.html
+- Shared Task: https://pan.webis.de/clef25/pan25-web/generated-content-analysis.html#task1
 - Dataset Link: https://zenodo.org/records/14962653 
 
 ---
